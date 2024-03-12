@@ -84,4 +84,8 @@ public class Date {
       return false;
     }
   }
+  
+  public void methodByOwner() {
+	  System.out.println("The owner created this");
+  }
 }
